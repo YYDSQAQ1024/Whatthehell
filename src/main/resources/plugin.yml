@@ -1,0 +1,13 @@
+name: WTH
+version: '${project.version}'
+main: me.wang.whatthehell.WTH
+api-version: '1.21'
+authors: [lao_wang]
+description: What the hell?
+website: https://plugins.ngup.eu.org/
+load: STARTUP
+
+
+commands:
+  wth:
+    description: Get a book with the wth enchantment

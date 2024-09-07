@@ -1,0 +1,52 @@
+#万物皆可附魔
+AnvilForEverything: true
+#精准采集，默认50%
+SILK_TOUCH: 0.50
+#火焰附加
+FIRE_ASPECT: true
+#锋利
+SHARPNESS: true
+#引雷的概率，默认50%
+CHANNELING: 0.50
+#击退
+KNOCKBACK:
+  #是否启用
+  enable: true
+  #Y轴上的向量
+  y: 1
+  #X轴上的向量
+  x: 1.552
+#水肺
+WaterBreathing: true
+#无械可击
+Unarmed: true
+#无限
+INFINITY: true
+#多重射击
+MULTISHOT: true
+#穿透
+PIERCING: true
+#横扫之刃
+SWEEPING_EDGE:
+  #是否启用
+  enable: true
+  #长
+  v: 1
+  #高
+  v1: 0.25
+  #宽
+  v2: 1
+#WTH附魔在使用附魔台时出现的概率，默认10%
+EnchantTable: 0.10
+#WTH附魔在村庄箱子中出现的概率，默认10%
+Village: 0.10
+#物品附加
+ProjectileLaunch:
+  #是否启用
+  enable: true
+  #TNT落地是否被激活
+  TNTPrimed: true
+  #初始重力加速度
+  InitialGravitationalAcceleration: 0.001
+  #增加重力加速度
+  IncreaseGravitationalAcceleration: 0.0001
